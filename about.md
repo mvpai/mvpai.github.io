@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+정보시스템과 AI 분야 실전 경험을 공유합니다. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[이메일](mailto:metacog@kakao.com)
