@@ -7,7 +7,7 @@ permalink: /a-template/
 정보시스템 프로젝트에서 적용하는 실무형 템플릿을 공유합니다. 
 
 ### 검사기준서
-[비기능 요구사항 검사기준서](https://private-user-images.githubusercontent.com/153803983/290769842-2ad28b1f-ef1d-4264-806a-29d69e962905.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI2Mjk4ODgsIm5iZiI6MTcwMjYyOTU4OCwicGF0aCI6Ii8xNTM4MDM5ODMvMjkwNzY5ODQyLTJhZDI4YjFmLWVmMWQtNDI2NC04MDZhLTI5ZDY5ZTk2MjkwNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjE1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIxNVQwODM5NDhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iYTMzN2YxMWJhMDZjMGEyMzc4ODQzZmQwOGJlNWJkZjFkZThmZmRhZjdkMDYwNzVhOTA4YmE0MWVlMTY3MzdhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.V8hSitF0hqzyfT1_WBioD1sFXcuazEg35MDZWJJ4GuA)
+[비기능 요구사항 검사기준서](<img width="797" alt="비기능 요구사항의 검사기준서 템플릿" src="https://github.com/mvpai/mvpai.github.io/assets/153803983/2ad28b1f-ef1d-4264-806a-29d69e962905">)
 
 ### 통합테스트 
 [통합테스트 보고서 템플릿](https://github.com/mvpai/mvpai.github.io/files/13682771/default.xlsx)  
