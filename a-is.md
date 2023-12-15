@@ -56,4 +56,4 @@ DB표준화지침 제10조제2항 및 제4항에서는 감리법인이 공공데
  ◦ 감리계획서에 제시된 점검항목에 따른 점검 여부는 추후 부실감리 논란 발생시 판단의 기준으 로 활용되므로 실제 점검이 가능한지를 고려하여 작성한다.  
 
  감리기준, 구축·운영지침, DB표준화지침 등 관련 고시에서 감리시 점검할 것을 규정하고 있는 사항에 대해서는 별도의 점검항목을 도출하여 반영하여야 한다.  
- https://github.com/mvpai/mvpai.github.io/blob/main/images/Checklist_for_related_notices.png
+ ![_config.yml]({{ site.baseurl }}/images/Checklist_for_related_notices.png)  
