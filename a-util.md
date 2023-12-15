@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 정보 링크
+title: 실무툴
 permalink: /a-util/
 ---
 

@@ -4,7 +4,7 @@ title: 자격증
 permalink: /a-license/
 ---
 
-안녕하세요! 정보시스템이 세상에 가치를 더해 주길 바랍니다.
+안녕하세요! 다양한 IT분야 자격증을 소개합니다.
 
 ## SW 보안약점 진단원
 [진단원 양성 온라인/오프라인 과정](https://academy.kisa.or.kr/edu/planning03.kisa)  
