@@ -7,25 +7,15 @@ permalink: /a-util/
 안녕하세요! 정보시스템을 위한 유용한 정보 링크 입니다.  
 
 
-## 보안성
-웹앱 보안 [OWASP ZAP](https://www.zaproxy.org/download/)  
+# 보안성
+### 웹앱 보안 [OWASP ZAP](https://www.zaproxy.org/download/)  
   OWASP ZAP(Zed Attack Proxy)은 오픈 소스 웹 애플리케이션 보안 스캐너이다. 애플리케이션 보안이 처음이거나 전문 침투 테스터들이 모두 사용하도록 고안되었다.  
 
-웹접근성 [자가진단프로그램](https://www.wa.or.kr/board/view.asp?sn=10025&page=1&search=&SearchString=&BoardID=0004&cate=)    
+### 웹접근성 [자가진단프로그램](https://www.wa.or.kr/board/view.asp?sn=10025&page=1&search=&SearchString=&BoardID=0004&cate=)    
 
-시큐어 큐딩 분석[spotbugs](https://github.com/spotbugs/spotbugs)  
-"SpotBugs"는 자바 프로그램에서 버그와 잠재적인 오류를 탐지하기 위한 정적 분석 도구입니다. 이 도구는 소스 코드를 검사하여 일반적인 프로그래밍 오류 패턴을 식별하고, 개발자에게 경고 또는 오류 메시지를 제공하여 코드 품질을 향상시킵니다.
+### 시큐어 큐딩 분석[spotbugs](https://github.com/spotbugs/spotbugs)  
 
-SpotBugs의 주요 특징은 다음과 같습니다:
-
-정적 분석 도구: SpotBugs는 정적 분석을 수행하여 코드를 실행하지 않고도 프로그램에서 발생할 수 있는 잠재적인 오류를 식별합니다. 이는 개발자가 코드를 실행하지 않고도 품질 검사를 수행할 수 있도록 도와줍니다.
-다양한 버그 탐지: SpotBugs는 다양한 종류의 버그와 오류 패턴을 탐지합니다. 예를 들어, 널 포인터 참조, 잘못된 형변환, 무한 반복문, 리소스 누수 등을 식별하여 개발자에게 알려줍니다.
-커스터마이징 가능: SpotBugs는 다양한 설정과 규칙을 제공하여 개발자가 검사하고자 하는 항목을 선택하고, 오류 수준을 조절할 수 있습니다. 이를 통해 개발자는 자신의 프로젝트에 맞게 SpotBugs를 설정하고 활용할 수 있습니다.
-IDE 통합: SpotBugs는 다양한 통합 개발 환경(IDE)과 호환됩니다. 이를 통해 개발자는 IDE 내에서 SpotBugs를 실행하여 실시간으로 코드 품질 검사를 수행하고 오류를 수정할 수 있습니다.
-확장성: SpotBugs는 플러그인 시스템을 지원하여 사용자가 독자적으로 규칙을 작성하고, 사용자 정의 오류 패턴을 추가할 수 있습니다. 이를 통해 SpotBugs의 탐지 능력을 확장할 수 있습니다.
-SpotBugs는 코드 품질 향상을 위한 강력한 도구로 알려져 있으며, 개발자들이 프로그램에서 발생할 수 있는 버그와 오류를 사전에 탐지하고 수정하는 데 도움을 줍니다.
-
-## 성능테스트
-[nGrinder](https://naver.github.io/ngrinder/)  
+# 성능
+### 성능테스트 툴 [nGrinder](https://naver.github.io/ngrinder/)  
   엔그라인더는 스크립트 작성, 테스트 실행, 모니터링, 결과 보고서 생성기를 동시에 실행할 수 있는 스트레스 테스트용 플랫폼입니다. 오픈소스인 엔그라인더는 불편함을 없애고 통합 환경을 제공하여 스트레스 테스트를 쉽게 수행할 수 있는 방법을 제공합니다.  
 
