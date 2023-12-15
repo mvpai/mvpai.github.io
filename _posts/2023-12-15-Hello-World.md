@@ -1,10 +1,19 @@
 ---
 layout: post
-title: 첫 번째 글쓰기
+title: 소프트웨어 접근성이란? 
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+소프트웨어 접근성(Sofeware Accessibility)은 정보통신 제품이나 시스템에서 실행되는 응용 프로그램이나 운영체제 등과 같은 소프트웨어를 개발함에 있어서 장애인과 고령자 분들이 비장애인과 동등한 수준으로 사용할 수 있도록 하기 위하여 설계 또는 구현에 필요한 최소한의 사항을 규정한 것입니다.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+소프트웨어 접근성은 모든 사용자가 소프트웨어를 동등하게 접근하고 사용할 수 있는 능력을 의미합니다. 즉, 장애를 가진 사람들을 포함하여 모든 사용자가 소프트웨어를 이해하고 조작할 수 있도록 설계되어야 함을 말합니다.
+
+소프트웨어 접근성은 다양한 장애와 제한을 가진 사람들을 고려하여 소프트웨어를 설계하고 개발하는 것을 목표로 합니다. 장애의 종류에는 시각적 장애, 청각적 장애, 운동 및 기능적 장애, 인지적 장애 등이 포함될 수 있습니다.
+
+소프트웨어 접근성을 고려하는 것은 다음과 같은 목적을 가지고 있습니다:
+
+모든 사용자에게 동등한 기회 제공: 소프트웨어 접근성은 모든 사용자가 소프트웨어를 동등하게 이용할 수 있는 기회를 제공합니다. 장애를 가진 사람들도 소프트웨어를 자유롭게 사용하고 혜택을 누릴 수 있어야 합니다.
+법적 요구 사항 충족: 일부 국가에서는 소프트웨어 접근성을 법적으로 요구하는 경우가 있습니다. 이는 공공기관이나 기업의 웹사이트, 애플리케이션 등이 장애를 가진 사람들에게 동등한 서비스를 제공해야 한다는 것을 의미합니다.
+사용자 경험 향상: 소프트웨어 접근성을 고려하면 사용자 경험이 개선됩니다. 모든 사용자가 쉽게 소프트웨어를 이해하고 조작할 수 있으므로, 편의성과 만족도가 높아집니다.
+소프트웨어 접근성을 고려하기 위해서는 다양한 요소를 고려해야 합니다. 이는 사용자 인터페이스(UI) 디자인, 키보드 접근성, 스크린 리더 지원, 색각 이상자를 위한 적절한 색상 대비, 텍스트 크기 조정 기능 등을 포함할 수 있습니다. 이러한 요소들은 장애를 가진 사람들이 소프트웨어를 더 쉽게 사용할 수 있도록 도와줍니다.  
