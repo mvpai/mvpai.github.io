@@ -13,6 +13,7 @@ permalink: /a-guide/
 
 ## 개발보안
 [소프트웨어 개발보안 가이드](https://www.kisa.or.kr/2060204/form?postSeq=5&lang_type=KO&page=1)  
+[공개SW를 활용한 소프트웨어 개발보안 점검 가이드](https://www.kisa.or.kr/skin/doc.html?fn=20220104_2030303_10.pdf&rs=/result/2022-01/)  
 ## 보안약점
 [소프트웨어 보안약점 진단 가이드](https://www.kisa.or.kr/2060204/form?postSeq=9&lang_type=KO&page=1)  
 
