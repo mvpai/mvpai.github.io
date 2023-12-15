@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI
+title: 정보시스템
 permalink: /a-is/
 ---
 
