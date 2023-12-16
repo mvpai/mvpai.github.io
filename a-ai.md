@@ -7,6 +7,7 @@ permalink: /a-ai/
 안녕하세요! AI가 모든 활동을 편리하게 만들어 주길 바랍니다.
 
 ## 최고의 AI 생산성 도구 공유 
+[틸노트 뉴스](https://tilnote.io/news) : GPT4가 큐레이션한 AI 뉴스  
 [LilysAI](https://lilys.ai/) : 유튜브 요약정리 특화 앱.  
 [Gamma](https://gamma.app/) : 파워포인트 파일을 형성하는 데 도움이 되는 AI 사용.  
 [Opus Clip](https://www.opus.pro/ ) : 긴 비디오를 짧은 버전으로 재편집.  
