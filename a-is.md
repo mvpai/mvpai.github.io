@@ -8,12 +8,12 @@ permalink: /a-is/
 
 # 관련 가이드   
 전자정부법 및 동법 시행령, 감리기준과 같은 직접적으로 연관된 규정뿐만 아니라, 구축·운영지침, DB표준화지침과 밀접한 연관성을 가진다.    
-![_config.yml]({{ site.baseurl }}/images/Checklist_for_related_notices)
+https://raw.githubusercontent.com/mvpai/main/images/Checklist_for_related_notices.png  
 구축·운영지침 제43조제2항 및 제49조제2항에서는 감리법인이 기술적용계획표/결과표에 대해 점검하고, 그 결과를 감리수행결과보고서에 작성하도록 요구하고 있다.  
 
 # 절차  
 시행령과 감리기준에 규정된 절차를 예비조사, 현장감리, 시정조치확인의 3가 지 절차로 구분하여 정의하고 있다.  
-![_config.yml]({{ site.baseurl }}/images/process)
+![_config.yml]({{ site.baseurl }}/images/process.png)
 
 ### 발주자/사업자와의 면담  
 ◦ 발주자/사업자와의 면담 시에는 현장감리에 필요한 행정사항을 같이 협의하는 것이 필요하다. 산출물 제출범위, 공문처리 절차, 감리장소, 네트워크, 프린터, 출입조치, 감리 시 보안 유의사 항, 기능시험 환경 구축(종료단계) 등을 검토하여 감리계획서 “기타 행정사항” 부분에 기술하도 록 하여야 한다.  
