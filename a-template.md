@@ -16,6 +16,9 @@ permalink: /a-template/
 ### 점검 대상 
 [대비표에 의한 점검대상 건수 집계 작성 사례](https://github.com/mvpai/mvpai.github.io/files/13691499/default.xlsx)  
 
+### 과업 이행여부   
+[과업 이행여부 점검결과](https://github.com/mvpai/mvpai.github.io/files/13692410/default.xlsx)  
+
 ### 통합테스트 
 [통합테스트 보고서 템플릿](https://github.com/mvpai/mvpai.github.io/files/13691496/default.xlsx)  
 
