@@ -9,14 +9,14 @@ permalink: /a-ai/
 ## 최고의 AI 생산성 도구 공유 
 [LilysAI](https://lilys.ai/) : 유튜브 요약정리 특화 앱.  
 [Gamma](https://gamma.app/) : 파워포인트 파일을 형성하는 데 도움이 되는 AI 사용.  
-[Opus Clip](https://www.opus.pro/ ) : 긴 비디오를 짧은 버전으로 재편집. 
+[Opus Clip](https://www.opus.pro/ ) : 긴 비디오를 짧은 버전으로 재편집.  
 [ElevenLabs](https://elevenlabs.io/ ) : 가장 현실적인 AI 텍스트-투-보이스 도구.  
-[Synthesia](https://www.synthesia.io/ ) :일반 텍스트에서 나레이션이 있는 아바타 비디오 생성. 
+[Synthesia](https://www.synthesia.io/ ) :일반 텍스트에서 나레이션이 있는 아바타 비디오 생성.  
 [InterviewMe AI](https://interviewmeai.com/ ) : AI와 연습 인터뷰.   
 [Replika](https://replika.com/ ) : 친구 형태로 대화를 주고받을 수 있는 AI 챗봇 동반자.  
 [Rewind AI](https://www.rewind.ai/ ) : 보거나 말하거나 들은 모든 것을 기록하고 검색 가능하게 만듦.  
-[Adobe Podcast AI](https://podcast.adobe.com/ ) : 웹에서 오디오 녹음 및 편집. 
-[Perplexity](https://www.perplexity.ai/) : 인용과 모바일 앱이 있는 ChatGPT 경쟁자.  
+[Adobe Podcast AI](https://podcast.adobe.com/ ) : 웹에서 오디오 녹음 및 편집.  
+[Perplexity](https://www.perplexity.ai/) : 인용과 모바일 앱이 있는 ChatGPT 경쟁자.   
 [ChatPDF](https://www.chatpdf.com/) : PDF 파일과 대화하는 도구.  
 [The Rundown AI](https://www.therundown.ai/) :  모든 AI 관련 뉴스, 도구 및 AI를 활용하는 방법에 대한 중앙 허브.  
 [Supertools](https://supertools.therundown.ai/) : 분류된 모든 최고의 AI 도구 수백 개.  
