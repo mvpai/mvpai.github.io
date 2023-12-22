@@ -29,6 +29,8 @@ permalink: /a-about/
 
 [Permission denied 해소](https://docs.github.com/ko/authentication/troubleshooting-ssh/error-permission-denied-publickey)   
    - push 중 에러 메시지 : git@github.com: Permission denied (publickey).  
+     해소(ssh-add) : 예시 명령어 ssh-add ~/.ssh/id_rsa_mvpai
+
 [jekyll themes](https://jekyllthemes.io/)  
 
 ### 마크다운 사용   
