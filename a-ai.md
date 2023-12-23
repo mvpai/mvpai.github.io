@@ -5,13 +5,20 @@ permalink: /a-ai/
 ---
 
 안녕하세요! AI가 모든 활동을 편리하게 만들어 주길 바랍니다.
-## 뉴스  
+## ☘️ 뉴스  
 - [틸노트 뉴스](https://tilnote.io/news) : GPT4가 큐레이션한 AI 뉴스.  
 
-## 최고의 AI 생산성 도구 공유 
+## 🥭 생성AI 
+
+### [뤼튼](https://wrtn.ai/)
+ - 문서 작성부터 이미지 생성까지 한국어 명령으로 간편하게 전세계 다양한 생성AI를 뤼튼에서 무료로 한 번에
+
+
+## 💡 최고의 AI 생산성 도구 공유 
   
 - [LilysAI](https://lilys.ai/) : 유튜브 요약정리 특화 앱.  
 - [Gamma](https://gamma.app/) : 파워포인트 파일을 형성하는 데 도움이 되는 AI 사용.  
+- [Wimsical](https://whimsical.com) : 시각적 도구로 순서도, 스티커 메모, 마인드 맵, 단순화된 문서와 같은 다양한 시각적 도구
 - [Opus Clip](https://www.opus.pro/ ) : 긴 비디오를 짧은 버전으로 재편집.  
 - [ElevenLabs](https://elevenlabs.io/ ) : 가장 현실적인 AI 텍스트-투-보이스 도구.  
 - [Synthesia](https://www.synthesia.io/ ) :일반 텍스트에서 나레이션이 있는 아바타 비디오 생성.  
