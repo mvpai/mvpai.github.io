@@ -36,5 +36,8 @@ permalink: /a-about/
 ### 마크다운 사용   
 - 줄바꿈 처리를 위해 줄의 마지막에 스페이스 2번 이상 입력   
 
+### 이모지 사용 
+- [이모지 가이드 웹 사이트](https://emojiguide.com/symbols/blue-square/)
+
 ### Contact me  
 [이메일](mailto:metacog@kakao.com)  
