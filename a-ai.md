@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AI
+title: 🌳 AI
 permalink: /a-ai/
 ---
 

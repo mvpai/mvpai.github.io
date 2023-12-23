@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 자격증
+title: 🌳 자격증
 permalink: /a-license/
 ---
 

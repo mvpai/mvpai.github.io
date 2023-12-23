@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 실무툴
+title: 🌳 실무툴
 permalink: /a-util/
 ---
 

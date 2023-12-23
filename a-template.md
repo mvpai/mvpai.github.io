@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 템플릿
+title: 🌳 템플릿
 permalink: /a-template/
 ---
 
