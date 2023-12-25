@@ -38,6 +38,6 @@ permalink: /a-about/
 
 ### 이모지 사용 
 - [이모지 가이드 웹 사이트](https://emojiguide.com/symbols/blue-square/)
-
+- [이모지 리스트](https://apps.timwhitlock.info/emoji/tables/unicode#block-2-dingbats)
 ### Contact me  
 [이메일](mailto:metacog@kakao.com)  
