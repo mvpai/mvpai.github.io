@@ -19,21 +19,6 @@
     <div class="wrapper-masthead">
       <div class="container">
 
-        <!-- Sidebar section -->
-    <div class="sidebar">
-      <nav>
-        <ul>
-          <!-- Table of Contents -->
-          {% for item in site.pages %}
-            {% if item.title %}
-              <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-            {% endif %}
-          {% endfor %}
-        </ul>
-      </nav>
-    </div>
-  </div>
-
         <header class="masthead clearfix">
           <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
 
@@ -45,7 +30,6 @@
                 <img alt="Hits" src="https://hits.sh/github.com/mvpai/hits.svg"/>
               </a>
           </div>
-
 
           <nav>
             <a href="{{ site.baseurl }}/a-about">About</a>
@@ -65,6 +49,21 @@
     <div id="main" role="main" class="container">
       {{ content }}
     </div>
+    
+    <!-- Sidebar section -->
+    <div class="sidebar">
+      <nav>
+        <ul>
+          <!-- Table of Contents -->
+          {% for item in site.pages %}
+            {% if item.title %}
+              <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </nav>
+    </div>
+
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
