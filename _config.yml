@@ -86,6 +86,3 @@ exclude:
   - README.md
   - CNAME
 
-plugins:
-  - jekyll-toc
-sidebar_position: right

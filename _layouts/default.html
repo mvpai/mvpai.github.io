@@ -50,20 +50,7 @@
       {{ content }}
     </div>
     
-    <!-- Sidebar section -->
-    <div class="sidebar">
-      <nav>
-        <ul>
-          <!-- Table of Contents -->
-          {% for item in site.pages %}
-            {% if item.title %}
-              <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-            {% endif %}
-          {% endfor %}
-        </ul>
-      </nav>
-    </div>
-
+    
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
