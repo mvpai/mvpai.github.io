@@ -18,6 +18,12 @@
   <body>
     <div class="wrapper-masthead">
       <div class="container">
+
+        <div class="sidebar">
+          <h2>목차</h2>
+          {{ content | toc }}
+        </div>
+        
         <header class="masthead clearfix">
           <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
 
@@ -49,13 +55,6 @@
     <div id="main" role="main" class="container">
       {{ content }}
     </div>
-    
-    <div class="sidebar">
-      <h2>목차</h2>
-      {{ content | toc }}
-    </div>
-    
-
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
