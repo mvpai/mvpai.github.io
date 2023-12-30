@@ -18,7 +18,7 @@ permalink: /a-util/
 
 ### 🧰 DB접근제어 솔루션 [Chakra Max](http://www.ngsystem.co.kr/d2.html)  
 
-### 전자정부 프레임워크   
+### 🧰 전자정부 프레임워크 보안 패치   
 [2022년도 공통컴포넌트 보안 패치 안내 : 2022-12-30](https://www.egovframe.go.kr/home/ntt/nttRead.do?pagerOffset=0&searchKey=&searchValue=&menuNo=74&bbsId=6&nttId=1866)  
 
 ## 🐚 성능  
@@ -27,10 +27,10 @@ permalink: /a-util/
 ### 🧰 성능테스트 툴 [K6사용법](https://github.com/schooldevops/k6-tutorials/blob/main/GettingStarts/01_intro_install.md)
   
 ## 📦 프레임워크
-### 전자정부 프레임워크 
+### 🧰 전자정부 프레임워크 
 [전자정부 프레임워크 4.2 배포 안내](https://www.egovframe.go.kr/home/ntt/nttRead.do?pagerOffset=0&searchKey=&searchValue=&menuNo=74&bbsId=6&nttId=1886)
 
-### Log4J
+### 🧰 Log4J
 [Log4J 보안 업데이트 긴급공지 : 21.12.11](https://www.egovframe.go.kr/home/ntt/nttRead.do?pagerOffset=0&searchKey=&searchValue=&menuNo=74&bbsId=6&nttId=1838)  
 □ 대응방안  
   o JDK8 사용시  
