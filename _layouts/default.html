@@ -19,11 +19,21 @@
     <div class="wrapper-masthead">
       <div class="container">
 
-        <div class="sidebar">
-          <h2>목차</h2>
-          {{ content | toc }}
-        </div>
-        
+        <!-- Sidebar section -->
+    <div class="sidebar">
+      <nav>
+        <ul>
+          <!-- Table of Contents -->
+          {% for item in site.pages %}
+            {% if item.title %}
+              <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </nav>
+    </div>
+  </div>
+
         <header class="masthead clearfix">
           <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
 
